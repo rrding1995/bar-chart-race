@@ -1,0 +1,441 @@
+Year,Rank,Club,Revenue,Country,Season
+2002,1,Manchester United,217.2,England,2000-01
+2002,2,Juventus,173.5,Italy,2000-01
+2002,3,Bayern Munich,173.2,Germany,2000-01
+2002,4,AC Milan,164.6,Italy,2000-01
+2002,5,Real Madrid,138.2,Spain,2000-01
+2002,6,Liverpool,137.6,England,2000-01
+2002,7,Lazio,125.4,Italy,2000-01
+2002,8,Roma,123.8,Italy,2000-01
+2002,9,Chelsea,118.4,England,2000-01
+2002,10,Inter Milan,112.8,Italy,2000-01
+2003,1,Manchester United,229.5,England,2001-02
+2003,2,Juventus,177.9,Italy,2001-02
+2003,3,Bayern Munich,176.8,Germany,2001-02
+2003,4,AC Milan,159.1,Italy,2001-02
+2003,5,Liverpool,154.6,England,2001-02
+2003,6,Real Madrid,152.2,Spain,2001-02
+2003,7,Chelsea,143.4,England,2001-02
+2003,8,Arsenal,141.4,England,2001-02
+2003,9,Barcelona,139.8,Spain,2001-02
+2003,10,Roma,136.8,Italy,2001-02
+2004,1,Manchester United,251.2,England,2002-03
+2004,2,Juventus,218.8,Italy,2002-03
+2004,3,AC Milan,200.4,Italy,2002-03
+2004,4,Real Madrid,193.7,Spain,2002-03
+2004,5,Bayern Munich,163.9,Germany,2002-03
+2004,6,Inter Milan,162.5,Italy,2002-03
+2004,7,Arsenal,150.1,England,2002-03
+2004,8,Liverpool,149.3,England,2002-03
+2004,9,Newcastle United,139.3,England,2002-03
+2004,10,Chelsea,134.1,England,2002-03
+2005,1,Manchester United,259.4,England,2003-04
+2005,2,Real Madrid,236.2,Spain,2003-04
+2005,3,AC Milan,222.1,Italy,2003-04
+2005,4,Chelsea,217.5,England,2003-04
+2005,5,Juventus,215.3,Italy,2003-04
+2005,6,Arsenal,174.1,England,2003-04
+2005,7,Barcelona,169.9,Spain,2003-04
+2005,8,Inter Milan,167.1,Italy,2003-04
+2005,9,Bayern Munich,166.4,Germany,2003-04
+2005,10,Liverpool,140.2,England,2003-04
+2006,1,Real Madrid,275.7,Spain,2004-05
+2006,2,Manchester United,246.4,England,2004-05
+2006,3,AC Milan,234,Italy,2004-05
+2006,4,Juventus,229.4,Italy,2004-05
+2006,5,Chelsea,220.8,England,2004-05
+2006,6,Barcelona,207.9,Spain,2004-05
+2006,7,Bayern Munich,189.5,Germany,2004-05
+2006,8,Liverpool,181.2,England,2004-05
+2006,9,Inter Milan,177.2,Italy,2004-05
+2006,10,Arsenal,171.3,England,2004-05
+2006,11,Roma,131.8,Italy,2004-05
+2006,12,Newcastle United,128.9,England,2004-05
+2006,13,Tottenham Hotspur,104.5,England,2004-05
+2006,14,Schalke 04,97.4,Germany,2004-05
+2006,15,Lyon,92.9,France,2004-05
+2006,16,Celtic,92.7,Scotland,2004-05
+2006,17,Manchester City,90.1,England,2004-05
+2006,18,Everton,88.8,England,2004-05
+2006,19,Valencia,84.6,Spain,2004-05
+2006,20,Lazio,83.1,Italy,2004-05
+2007,1,Real Madrid,292.2,Spain,2005-06
+2007,2,Barcelona,259.1,Spain,2005-06
+2007,3,Juventus,251.2,Italy,2005-06
+2007,4,Manchester United,242.6,England,2005-06
+2007,5,AC Milan,238.7,Italy,2005-06
+2007,6,Chelsea,221,England,2005-06
+2007,7,Inter Milan,206.6,Italy,2005-06
+2007,8,Bayern Munich,204.7,Germany,2005-06
+2007,9,Arsenal,177.4,England,2005-06
+2007,10,Liverpool,176,England,2005-06
+2007,11,Lyon,127.7,France,2005-06
+2007,12,Roma,127,Italy,2005-06
+2007,13,Newcastle United,124.3,England,2005-06
+2007,14,Schalke 04,122.9,Germany,2005-06
+2007,15,Tottenham Hotspur,107.2,England,2005-06
+2007,16,Hamburger SV,101.8,Germany,2005-06
+2007,17,Manchester City,89.4,England,2005-06
+2007,18,Rangers,88.5,Scotland,2005-06
+2007,19,West Ham United,86.9,England,2005-06
+2007,20,Benfica,85.1,Portugal,2005-06
+2008,1,Real Madrid,351,Spain,2006-07
+2008,2,Manchester United,315.2,England,2006-07
+2008,3,Barcelona,290.1,Spain,2006-07
+2008,4,Chelsea,283,England,2006-07
+2008,5,Arsenal,263.9,England,2006-07
+2008,6,AC Milan,227.2,Italy,2006-07
+2008,7,Bayern Munich,223.3,Germany,2006-07
+2008,8,Liverpool,198.9,England,2006-07
+2008,9,Inter Milan,195,Italy,2006-07
+2008,10,Roma,157.6,Italy,2006-07
+2008,11,Tottenham Hotspur,153.1,England,2006-07
+2008,12,Juventus,145.2,Italy,2006-07
+2008,13,Lyon,140.6,France,2006-07
+2008,14,Newcastle United,129.4,England,2006-07
+2008,15,Hamburger SV,120.4,Germany,2006-07
+2008,16,Schalke 04,114.3,Germany,2006-07
+2008,17,Celtic,111.8,Scotland,2006-07
+2008,18,Valencia,107.6,Spain,2006-07
+2008,19,Marseille,99,France,2006-07
+2008,20,Werder Bremen,97.3,Germany,2006-07
+2009,1,Real Madrid,365.8,Spain,2007-08
+2009,2,Manchester United,324.8,England,2007-08
+2009,3,Barcelona,308.8,Spain,2007-08
+2009,4,Bayern Munich,295.3,Germany,2007-08
+2009,5,Chelsea,268.9,England,2007-08
+2009,6,Arsenal,264,England,2007-08
+2009,7,Liverpool,210.9,England,2007-08
+2009,8,AC Milan,209.5,Italy,2007-08
+2009,9,Roma,175.4,Italy,2007-08
+2009,10,Inter Milan,172.9,Italy,2007-08
+2009,11,Juventus,167.5,Italy,2007-08
+2009,12,Lyon,155.7,France,2007-08
+2009,13,Schalke 04,148.4,Germany,2007-08
+2009,14,Tottenham Hotspur,145,England,2007-08
+2009,15,Hamburger SV,127.9,Germany,2007-08
+2009,16,Marseille,126.8,France,2007-08
+2009,17,Newcastle United,125.6,England,2007-08
+2009,18,VfB Stuttgart,111.5,Germany,2007-08
+2009,19,Fenerbahce,111.3,Turkey,2007-08
+2009,20,Manchester City,104,England,2007-08
+2010,1,Real Madrid,401.4,Spain,2008-09
+2010,2,Barcelona,365.9,Spain,2008-09
+2010,3,Manchester United,327,England,2008-09
+2010,4,Bayern Munich,289.5,Germany,2008-09
+2010,5,Arsenal,263,England,2008-09
+2010,6,Chelsea,242.3,England,2008-09
+2010,7,Liverpool,237,England,2008-09
+2010,8,Juventus,203.2,Italy,2008-09
+2010,9,Inter Milan,196.5,Italy,2008-09
+2010,10,AC Milan,196.5,Italy,2008-09
+2010,11,Hamburger SV,146.7,Germany,2008-09
+2010,12,Roma,146.4,Italy,2008-09
+2010,13,Lyon,139.6,France,2008-09
+2010,14,Marseille,133.2,France,2008-09
+2010,15,Tottenham Hotspur,132.7,England,2008-09
+2010,16,Schalke 04,124.5,Germany,2008-09
+2010,17,Werder Bremen,114.7,Germany,2008-09
+2010,18,Borussia Dortmund,103.5,Germany,2008-09
+2010,19,Manchester City,101.2,England,2008-09
+2010,20,Newcastle United,101,England,2008-09
+2011,1,Real Madrid,438.6,Spain,2009-10
+2011,2,Barcelona,398.1,Spain,2009-10
+2011,3,Manchester United,349.8,England,2009-10
+2011,4,Bayern Munich,323,Germany,2009-10
+2011,5,Arsenal,274.1,England,2009-10
+2011,6,Chelsea,255.9,England,2009-10
+2011,7,AC Milan,235.8,Italy,2009-10
+2011,8,Liverpool,225.3,England,2009-10
+2011,9,Inter Milan,224.8,Italy,2009-10
+2011,10,Juventus,205,Italy,2009-10
+2011,11,Manchester City,152.8,England,2009-10
+2011,12,Tottenham Hotspur,146.3,England,2009-10
+2011,13,Hamburger SV,146.2,Germany,2009-10
+2011,14,Lyon,146.1,France,2009-10
+2011,15,Marseille,141.1,France,2009-10
+2011,16,Schalke 04,139.8,Germany,2009-10
+2011,17,Atletico Madrid,124.5,Spain,2009-10
+2011,18,Roma,122.7,Italy,2009-10
+2011,19,VfB Stuttgart,114.8,Germany,2009-10
+2011,20,Aston Villa,109.4,England,2009-10
+2011,21,Fiorentina,106.4,Italy,2009-10
+2011,22,Borussia Dortmund,105.2,Germany,2009-10
+2011,23,Bordeaux,102.8,France,2009-10
+2011,24,Sevilla,99.6,Spain,2009-10
+2011,25,Valencia,99.3,Spain,2009-10
+2011,26,Benfica,98.2,Portugal,2009-10
+2011,27,Everton,96.6,England,2009-10
+2011,28,Werder Bremen,96.5,Germany,2009-10
+2011,29,Napoli,95.1,Italy,2009-10
+2011,30,Fulham,94.2,England,2009-10
+2012,1,Real Madrid,479.5,Spain,2010-11
+2012,2,Barcelona,450.7,Spain,2010-11
+2012,3,Manchester United,367,England,2010-11
+2012,4,Bayern Munich,321.4,Germany,2010-11
+2012,5,Arsenal,251.1,England,2010-11
+2012,6,Chelsea,249.8,England,2010-11
+2012,7,AC Milan,235.1,Italy,2010-11
+2012,8,Inter Milan,211.4,Italy,2010-11
+2012,9,Liverpool,203.3,England,2010-11
+2012,10,Schalke 04,202.4,Germany,2010-11
+2012,11,Tottenham Hotspur,181,England,2010-11
+2012,12,Manchester City,169.6,England,2010-11
+2012,13,Juventus,153.9,Italy,2010-11
+2012,14,Marseille,150.4,France,2010-11
+2012,15,Roma,143.5,Italy,2010-11
+2012,16,Borussia Dortmund,138.5,Germany,2010-11
+2012,17,Lyon,132.8,France,2010-11
+2012,18,Hamburger SV,128.8,Germany,2010-11
+2012,19,Valencia,116.8,Spain,2010-11
+2012,20,Napoli,114.9,Italy,2010-11
+2012,21,Benfica,102.5,Portugal,2010-11
+2012,22,Atletico Madrid,99.9,Spain,2010-11
+2012,23,Werder Bremen,99.7,Germany,2010-11
+2012,24,Aston Villa,99.3,England,2010-11
+2012,25,Newcastle United,98,England,2010-11
+2012,26,Ajax,97.1,Netherlands,2010-11
+2012,27,VfB Stuttgart,95.5,Germany,2010-11
+2012,28,Everton,90.8,England,2010-11
+2012,29,West Ham United,89.1,England,2010-11
+2012,30,Sunderland,87.9,England,2010-11
+2013,1,Real Madrid,512.6,Spain,2011-12
+2013,2,Barcelona,483,Spain,2011-12
+2013,3,Manchester United,395.9,England,2011-12
+2013,4,Bayern Munich,368.4,Germany,2011-12
+2013,5,Chelsea,322.6,England,2011-12
+2013,6,Arsenal,290.3,England,2011-12
+2013,7,Manchester City,285.6,England,2011-12
+2013,8,AC Milan,256.9,Italy,2011-12
+2013,9,Liverpool,233.2,England,2011-12
+2013,10,Paris St Germain,220.5,France,2011-12
+2013,11,Inter Milan,200.6,Italy,2011-12
+2013,12,Borussia Dortmund,196.7,Germany,2011-12
+2013,13,Juventus,195.4,Italy,2011-12
+2013,14,Tottenham Hotspur,178.2,England,2011-12
+2013,15,Schalke 04,174.5,Germany,2011-12
+2013,16,Napoli,148.4,Italy,2011-12
+2013,17,Marseille,135.7,France,2011-12
+2013,18,Lyon,131.9,France,2011-12
+2013,19,Galatasaray,129.7,Turkey,2011-12
+2013,20,Hamburger SV,121.1,Germany,2011-12
+2013,21,Roma,115.9,Italy,2011-12
+2013,22,Newcastle United,115.3,England,2011-12
+2013,23,Valencia,111.1,Spain,2011-12
+2013,24,Benfica,111.1,Portugal,2011-12
+2013,25,Atletico Madrid,107.9,Spain,2011-12
+2013,26,Ajax,104.1,Netherlands,2011-12
+2013,27,VfB Stuttgart,103.2,Germany,2011-12
+2013,28,Everton,99.5,England,2011-12
+2013,29,Aston Villa,98.6,England,2011-12
+2013,30,Fulham,98,England,2011-12
+2014,1,Real Madrid,518.9,Spain,2012-13
+2014,2,Barcelona,482.6,Spain,2012-13
+2014,3,Bayern Munich,431.2,Germany,2012-13
+2014,4,Manchester United,423.8,England,2012-13
+2014,5,Paris St Germain,398.8,France,2012-13
+2014,6,Manchester City,316.2,England,2012-13
+2014,7,Chelsea,303.4,England,2012-13
+2014,8,Arsenal,284.3,England,2012-13
+2014,9,Juventus,272.4,Italy,2012-13
+2014,10,AC Milan,263.5,Italy,2012-13
+2014,11,Borussia Dortmund,256.2,Germany,2012-13
+2014,12,Liverpool,240.6,England,2012-13
+2014,13,Schalke 04,198.2,Germany,2012-13
+2014,14,Tottenham Hotspur,172,England,2012-13
+2014,15,Inter Milan,168.8,Italy,2012-13
+2014,16,Galatasaray,157,Turkey,2012-13
+2014,17,Hamburger SV,135.4,Germany,2012-13
+2014,18,Fenerbahce,126.4,Turkey,2012-13
+2014,19,Roma,124.4,Italy,2012-13
+2014,20,Atletico Madrid,120,Spain,2012-13
+2014,21,VfB Stuttgart,116.5,Germany,2012-13
+2014,22,Napoli,116.4,Italy,2012-13
+2014,23,Valencia,116,Spain,2012-13
+2014,24,Corinthians,113.3,Brazil,2012-13
+2014,25,Newcastle United,111.9,England,2012-13
+2014,26,Benfica,109.2,Portugal,2012-13
+2014,27,Ajax,107.6,Netherlands,2012-13
+2014,28,Lazio,106.2,Italy,2012-13
+2014,29,West Ham United,104.8,England,2012-13
+2014,30,Marseille,104.3,France,2012-13
+2015,1,Real Madrid,549.5,Spain,2013-14
+2015,2,Manchester United,518,England,2013-14
+2015,3,Bayern Munich,487.5,Germany,2013-14
+2015,4,Barcelona,484.6,Spain,2013-14
+2015,5,Paris St Germain,474.2,France,2013-14
+2015,6,Manchester City,414.4,England,2013-14
+2015,7,Chelsea,387.9,England,2013-14
+2015,8,Arsenal,359.3,England,2013-14
+2015,9,Liverpool,305.9,England,2013-14
+2015,10,Juventus,279.4,Italy,2013-14
+2015,11,Borussia Dortmund,261.5,Germany,2013-14
+2015,12,AC Milan,249.7,Italy,2013-14
+2015,13,Tottenham Hotspur,215.8,England,2013-14
+2015,14,Schalke 04,213.9,Germany,2013-14
+2015,15,Atletico Madrid,169.9,Spain,2013-14
+2015,16,Napoli,164.8,Italy,2013-14
+2015,17,Inter Milan,164,Italy,2013-14
+2015,18,Galatasaray,161.9,Turkey,2013-14
+2015,19,Newcastle United,155.1,England,2013-14
+2015,20,Everton,144.1,England,2013-14
+2015,21,West Ham United,137.4,England,2013-14
+2015,22,Aston Villa,133,England,2013-14
+2015,23,Marseille,130.5,France,2013-14
+2015,24,Roma,127.4,Italy,2013-14
+2015,25,Southampton,126.9,England,2013-14
+2015,26,Benfica,126,Portugal,2013-14
+2015,27,Sunderland,124.8,England,2013-14
+2015,28,Hamburger SV,120.3,Germany,2013-14
+2015,29,Swansea City,118,England,2013-14
+2015,30,Stoke City,117.6,England,2013-14
+2016,1,Real Madrid,577,Spain,2014-15
+2016,2,Barcelona,560.8,Spain,2014-15
+2016,3,Manchester United,519.5,England,2014-15
+2016,4,Paris St Germain,480.8,France,2014-15
+2016,5,Bayern Munich,474,Germany,2014-15
+2016,6,Manchester City,463.5,England,2014-15
+2016,7,Arsenal,435.5,England,2014-15
+2016,8,Chelsea,420,England,2014-15
+2016,9,Liverpool,391.8,England,2014-15
+2016,10,Juventus,323.9,Italy,2014-15
+2016,11,Borussia Dortmund,280.6,Germany,2014-15
+2016,12,Tottenham Hotspur,257.5,England,2014-15
+2016,13,Schalke 04,219.7,Germany,2014-15
+2016,14,AC Milan,199.1,Italy,2014-15
+2016,15,Atletico Madrid,187.1,Spain,2014-15
+2016,16,Roma,180.4,Italy,2014-15
+2016,17,Newcastle United,169.3,England,2014-15
+2016,18,Everton,165.1,England,2014-15
+2016,19,Inter Milan,164.8,Italy,2014-15
+2016,20,West Ham United,160.9,England,2014-15
+2016,21,Galatasaray,159.1,Turkey,2014-15
+2016,22,Southampton,149.5,England,2014-15
+2016,23,Aston Villa,148.8,England,2014-15
+2016,24,Leicester City,137.2,England,2014-15
+2016,25,Sunderland,132.9,England,2014-15
+2016,26,Swansea City,132.8,England,2014-15
+2016,27,Stoke City,130.9,England,2014-15
+2016,28,Crystal Palace,130.8,England,2014-15
+2016,29,West Bromwich Albion,126.6,England,2014-15
+2016,30,Napoli,125.5,Italy,2014-15
+2017,1,Manchester United,689,England,2015-16
+2017,2,Barcelona,620.2,Spain,2015-16
+2017,3,Real Madrid,620.1,Spain,2015-16
+2017,4,Bayern Munich,592,Germany,2015-16
+2017,5,Manchester City,524.9,England,2015-16
+2017,6,Paris St Germain,520.9,France,2015-16
+2017,7,Arsenal,468.5,England,2015-16
+2017,8,Chelsea,447.4,England,2015-16
+2017,9,Liverpool,403.8,England,2015-16
+2017,10,Juventus,341.1,Italy,2015-16
+2017,11,Borussia Dortmund,283.9,Germany,2015-16
+2017,12,Tottenham Hotspur,279.7,England,2015-16
+2017,13,Atletico Madrid,228.6,Spain,2015-16
+2017,14,Schalke 04,224.5,Germany,2015-16
+2017,15,Roma,218.2,Italy,2015-16
+2017,16,AC Milan,214.7,Italy,2015-16
+2017,17,Zenit St Petersburg,196.5,Russia,2015-16
+2017,18,West Ham United,192.3,England,2015-16
+2017,19,Inter Milan,179.2,Italy,2015-16
+2017,20,Leicester City,172.1,England,2015-16
+2017,21,Newcastle United,168.2,England,2015-16
+2017,22,Southampton,163.3,England,2015-16
+2017,23,Everton,162.5,England,2015-16
+2017,24,Lyon,160,France,2015-16
+2017,25,Fenerbahce,157.7,Turkey,2015-16
+2017,26,Galatasaray,155.9,Turkey,2015-16
+2017,27,Benfica,152.1,Portugal,2015-16
+2017,28,Borussia Monchengladbach,149.3,Germany,2015-16
+2017,29,Sunderland,144.4,England,2015-16
+2017,30,Napoli,142.7,Italy,2015-16
+2018,1,Manchester United,676.3,England,2016-17
+2018,2,Real Madrid,674.6,Spain,2016-17
+2018,3,Barcelona,648.3,Spain,2016-17
+2018,4,Bayern Munich,587.8,Germany,2016-17
+2018,5,Manchester City,527.7,England,2016-17
+2018,6,Arsenal,487.6,England,2016-17
+2018,7,Paris St Germain,486.2,France,2016-17
+2018,8,Chelsea,428,England,2016-17
+2018,9,Liverpool,424.2,England,2016-17
+2018,10,Juventus,405.7,Italy,2016-17
+2018,11,Tottenham Hotspur,355.6,England,2016-17
+2018,12,Borussia Dortmund,332.6,Germany,2016-17
+2018,13,Atletico Madrid,272.5,Spain,2016-17
+2018,14,Leicester City,271.1,England,2016-17
+2018,15,Inter Milan,262.1,Italy,2016-17
+2018,16,Schalke 04,230.2,Germany,2016-17
+2018,17,West Ham United,213.3,England,2016-17
+2018,18,Southampton,212.1,England,2016-17
+2018,19,Napoli,200.7,Italy,2016-17
+2018,20,Everton,199.2,England,2016-17
+2018,21,Lyon,198.3,France,2016-17
+2018,22,AC Milan,191.7,Italy,2016-17
+2018,23,Zenit St Petersburg,180.4,Russia,2016-17
+2018,24,Roma,171.8,Italy,2016-17
+2018,25,Borussia Monchengladbach,169.3,Germany,2016-17
+2018,26,Crystal Palace,164,England,2016-17
+2018,27,West Bromwich Albion,160.5,England,2016-17
+2018,28,Bournemouth,159.2,England,2016-17
+2018,29,Stoke City,158.3,England,2016-17
+2018,30,Benfica,157.6,Portugal,2016-17
+2019,1,Real Madrid,750.9,Spain,2017-18
+2019,2,Barcelona,690.4,Spain,2017-18
+2019,3,Manchester United,666,England,2017-18
+2019,4,Bayern Munich,629.2,Germany,2017-18
+2019,5,Manchester City,568.4,England,2017-18
+2019,6,Paris St Germain,541.7,France,2017-18
+2019,7,Liverpool,513.7,England,2017-18
+2019,8,Chelsea,505.7,England,2017-18
+2019,9,Arsenal,439.2,England,2017-18
+2019,10,Tottenham Hotspur,428.3,England,2017-18
+2019,11,Juventus,394.9,Italy,2017-18
+2019,12,Borussia Dortmund,317.2,Germany,2017-18
+2019,13,Atletico Madrid,304.4,Spain,2017-18
+2019,14,Inter Milan,280.8,Italy,2017-18
+2019,15,Roma,250,Italy,2017-18
+2019,16,Schalke 04,243.8,Germany,2017-18
+2019,17,Everton,212.9,England,2017-18
+2019,18,AC Milan,207.7,Italy,2017-18
+2019,19,Newcastle United,201.5,England,2017-18
+2019,20,West Ham United,197.9,England,2017-18
+2019,21,Napoli,182.8,Italy,2017-18
+2019,22,Leicester City,179.4,England,2017-18
+2019,23,Southampton,172,England,2017-18
+2019,24,Crystal Palace,169,England,2017-18
+2019,25,Zenit St Petersburg,167.8,Russia,2017-18
+2019,26,Besiktas,165.7,Turkey,2017-18
+2019,27,Sevilla,165.2,Spain,2017-18
+2019,28,Lyon,164.2,France,2017-18
+2019,29,Brighton,157.4,England,2017-18
+2019,30,Benfica,150.7,Portugal,2017-18
+2020,1,Barcelona,840.8,Spain,2018-19
+2020,2,Real Madrid,757.3,Spain,2018-19
+2020,3,Manchester United,711.5,England,2018-19
+2020,4,Bayern Munich,660.1,Germany,2018-19
+2020,5,Paris St Germain,635.9,France,2018-19
+2020,6,Manchester City,610.6,England,2018-19
+2020,7,Liverpool,604.7,England,2018-19
+2020,8,Tottenham Hotspur,521.1,England,2018-19
+2020,9,Chelsea,513.1,England,2018-19
+2020,10,Juventus,459.7,Italy,2018-19
+2020,11,Arsenal,445.6,England,2018-19
+2020,12,Borussia Dortmund,377.1,Germany,2018-19
+2020,13,Atletico Madrid,367.6,Spain,2018-19
+2020,14,Inter Milan,364.6,Italy,2018-19
+2020,15,Schalke 04,324.8,Germany,2018-19
+2020,16,Roma,231,Italy,2018-19
+2020,17,Lyon,220.8,France,2018-19
+2020,18,West Ham United,216.4,England,2018-19
+2020,19,Everton,213,England,2018-19
+2020,20,Napoli,207.4,Italy,2018-19
+2020,21,AC Milan,206.3,Italy,2018-19
+2020,22,Leicester City,200,England,2018-19
+2020,23,Ajax,199.4,Netherlands,2018-19
+2020,24,Benfica,197.6,Portugal,2018-19
+2020,25,Wolves,195.5,England,2018-19
+2020,26,Valencia,184.7,Spain,2018-19
+2020,27,Eintracht Frankfurt,183.8,Germany,2018-19
+2020,28,Zenit St Petersburg,180.4,Russia,2018-19
+2020,29,Porto,176.2,Portugal,2018-19
+2020,30,Crystal Palace,174.5,England,2018-19
